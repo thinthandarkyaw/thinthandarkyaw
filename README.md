@@ -1,4 +1,4 @@
-![coding](https://github.com/thinthandarkyaw/thinthandarkyaw/commit/fc0745aaf8e6e304f41a5c05abf918ceff3d0d43)
+![coding](http://github.com/thinthandarkyaw/thinthandarkyaw/commit/fc0745aaf8e6e304f41a5c05abf918ceff3d0d43)
 <h1 align="center">Hi 👋, I'm thinthandarkyaw</h1>
 <h3 align="center">web developer</h3>
 
