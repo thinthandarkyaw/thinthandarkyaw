@@ -5,6 +5,7 @@
 
 
 - 🌱 I’m currently learning **java, javascript, python**
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinthandarkyaw)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
