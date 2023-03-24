@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](http://github.com/thinthandarkyaw/thinthandarkyaw/blob/main/codecode.webp
 <h1 align="center">Hi 👋, I'm thinthandarkyaw</h1>
 <h3 align="center">web developer</h3>
 
