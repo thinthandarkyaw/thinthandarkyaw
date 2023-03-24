@@ -1,4 +1,4 @@
-![coder text](http://github.com/thinthandarkyaw/thinthandarkyaw/blob/main/codecode.webp
+![coding](http://github.com/thinthandarkyaw/thinthandarkyaw/blob/main/coder image.jpg)
 <h1 align="center">Hi 👋, I'm thinthandarkyaw</h1>
 <h3 align="center">web developer</h3>
 
